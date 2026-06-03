@@ -1,36 +1,122 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# İş Fikirleri - AI Business Idea Generator
 
-## Getting Started
+Türk pazarına özgü, doğrulanmış iş fikirleri platformu. Türkiye girişimcileri için hazırlandı.
 
-First, run the development server:
+## 🚀 Özellikler
+
+- **20 Doğrulanmış İş Fikri** - Her biri Türk pazarı için analiz edilmiş
+- **Filtreleme Sistemi** - Sektör, bütçe ve tecrübe seviyesine göre filtrele
+- **Detaylı Analiz** - Her fikir için "Neden Türkiye Şimdi?" ve "İlk 48 Saat" planı
+- **Premium Tier** - Ücretsiz ve premium katmanlar
+- **Dark Mode** - Karanlık mod desteği
+- **Mobile Responsive** - Mobil uyumlu tasarım
+- **SEO Optimized** - Türkçe keywords ve meta tags
+
+## 📊 Teknik Stack
+
+- **Next.js 15** - App Router ile
+- **TypeScript** - Type-safe kod
+- **Tailwind CSS** - Utility-first styling
+- **Static Site** - Hızlı yüklenme, veritabanı yok
+- **Vercel Deployment** - Zero-config deploy
+
+## 🛠️ Kurulum
 
 ```bash
+# Bağımlılıkları yükle
+npm install
+
+# Geliştirme sunucusunu başlat
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+[http://localhost:3000](http://localhost:3000) adresini tarayıcıda aç.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📁 Proje Yapısı
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```
+business-idea-generator/
+├── app/
+│   ├── fikir/[id]/     # Individual idea pages
+│   ├── fikirler/        # Ideas listing page
+│   ├── premium/         # Premium pricing page
+│   └── page.tsx         # Homepage
+├── data/
+│   └── ideas.json       # Static ideas database
+└── public/              # Static assets
+```
 
-## Learn More
+## 🎯 Hedef Kitle
 
-To learn more about Next.js, take a look at the following resources:
+- Türk teknik girişimciler (22-35 yaş)
+- İş fikirleri arayan founders
+- Yan projeler peşinde olanlar
+- Startup ekosistemi
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 💡 Fikir Verisi
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Fikirler `data/ideas.json` dosyasında saklanır. Yeni fikir eklemek için bu dosyayı düzenleyin.
 
-## Deploy on Vercel
+Her fikir şunları içerir:
+- `id` - Unique identifier
+- `name` - Fikir adı
+- `description` - Kısa açıklama
+- `industry` - Sektör
+- `budget` - Başlangıç bütçesi
+- `skillLevel` - Gerekli tecrübe
+- `turkeyContext` - Neden Türkiye'de çalıştığı
+- `first48Hours` - İlk 48 saat planı
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🚢 Deploy
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Vercel (Önerilen)
+
+1. Bu repo'yu fork edin
+2. [Vercel](https://vercel.com) hesabınızla giriş yapın
+3. "Import Project" ile repo'yunuzu ekleyin
+4. Framework: "Next.js" olarak seçin
+5. Deploy edin
+
+### Alternatifler
+
+- **Netlify** - Next.js destekli
+- **Railway** - Docker container
+- **Render** - Static site olarak
+
+## 📈 Gelecek Özellikler
+
+- [ ] Premium tier activation (payment integration)
+- [ ] User authentication
+- [ ] Idea bookmarking
+- [ ] Advanced filters (revenue potential, timeline)
+- [ ] Idea comparison tool
+- [ ] Export to PDF
+- [ ] API endpoint
+- [ ] Newsletter subscription
+
+## 🎨 Tasarım
+
+- **Renk Paleti**: Zinc (neutral) + Purple/Pink gradient (CTAs)
+- **Tipografi**: Geist Sans/Mono (Next.js default)
+- **Spacing**: Tailwind default scale
+- **Border Radius**: Smooth rounded corners
+
+## 📝 Lisans
+
+MIT License - Free to use, modify, and distribute.
+
+## 🤝 Katkıda Bulunma
+
+1. Repo'yu fork edin
+2. Feature branch'i oluşturun (`git checkout -b feature/amazing-feature`)
+3. Commit yapın (`git commit -m 'feat: Add amazing feature'`)
+4. Branch'i push edin (`git push origin feature/amazing-feature`)
+5. Pull Request açın
+
+## 📧 İletişim
+
+Sorular ve öneriler için Issues açabilirsiniz.
+
+---
+
+**Made with ❤️ for Turkish entrepreneurs**
