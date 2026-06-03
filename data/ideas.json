@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Yapay Zeka Destekli ÖDEV Asistanı",
+    "description": "Türkçe öğrenci ödev ve projeleri için AI destekli rehber platformu. Lise ve üniversite öğrencilerine tez sunumu, proje özeti, araştırma raporu等差遣において専門的なサポートを提供。",
+    "industry": "EdTech",
+    "budget": "Düşük (50K-100K TL)",
+    "skillLevel": "Orta",
+    "turkeyContext": "Türkiye'de 18M+ öğrenci, ödev yardımı piyasası büyümekte. Öğrencilerin %73'ü网上で課題支援を探している。親の教育支出は年間150億TLを超え、このセグメントでの支払い意欲は高い。",
+    "first48Hours": "Fikir doğrulama: 5 öğrenci ile深度访谈。Notion pageを作成し、最初の3つの「完成事例」を準備。Instagram öğrenci hesaplarıからDM调研を100件実施。"
+  },
+  {
+    "id": 2,
+    "name": "Kurumsal Ekip Yemekleri Platformu",
+    "description": "İstanbul ve Ankaradaki ofislere yönelik günlük taze yemek catering platformu. Her sabah 9'a kadar sipariş, 12:30'da teslimat. Vegan, glutensiz, diyet等オプション対応。",
+    "industry": "FoodTech",
+    "budget": "Orta (100K-300K TL)",
+    "skillLevel": "Başlangıç",
+    "turkeyContext": "İstanbul'da 50K+ SME ofis，従業員の「毎日のランチ」に疲れている。既存cateringは最低500TLから、かつ事前予約必要。需要はあるが供給が硬い。",
+    "first48Hours": "3つの中型オフィス（20-50人）に訪問し、昼休みを観察。既存catering業者と価格・最低注文数量を比較。Instagramで「test launch」投稿を行い、最初の5件を獲得。"
+  },
+  {
+    "id": 3,
+    "name": "SaaS: Türkçe SMM Planlayıcı",
+    "description": "Küçük işletmeler için Instagram/ TikTok投稿プランナー。月次コンテンツカレンダー、AIキャプション生成、トラッキング。300TL/ay定額。",
+    "industry": "SaaS",
+    "budget": "Düşük (30K-80K TL)",
+    "skillLevel": "Orta",
+    "turkeyContext": "Türkiye'de 3M+ küçük işletme，SMMを外注すると月3000TL+。小規模経営者は自身で投稿したいが時間がない。「手軽な計画ツール」需要が大きい。",
+    "first48Hours": "10の小規模ビジネスオーナー（カフェ、terzi、kuaför等）にインタビュー。彼らの現在の投稿プロセスを観察。最低限のMVP機能リストを作成。"
+  },
+  {
+    "id": 4,
+    "name": "İkinci El EV Satış Platformu",
+    "description": "Türkiye'deki kullanılmış elektrikli araçları専門のマーケットプレイス。Sahibindenを超えるUX、履歴書付き、フィルター強化。手数料1%",
+    "industry": "Marketplace",
+    "budget": "Yüksek (300K-1M TL)",
+    "skillLevel": "Orta",
+    "turkeyContext": "Türkiye'de EV在庫数は月5000台超。SahibindenのEVリスティングは混在しており、買う側は「EV専門のプラットフォーム」を求めている。購入意欲は高いが情報不足で躊躇している。",
+    "first48Hours": "Sahibinden、Arabam.comでEVリスティングの価格、接触率を調査。10人のEV購入希望者にインタビューし、痛点を特定。"
+  },
+  {
+    "id": 5,
+    "name": "Kooperatif Lojistik Platformu",
+    "description": "E-ticaret中小事業者向けの「荷物まとめ」配送。同じ地域への荷物を統合し、運送費を最大40%削減。Ankara、İzmir'den開始。",
+    "industry": "Logistics",
+    "budget": "Orta (150K-400K TL)",
+    "skillLevel": "Yüksek",
+    "turkeyContext": "Türkiye'de 250K+ e-ticaret satış者，運送費が利益を圧迫している。既存運送会社は大口向けで、小規模には不利。需要はあるが統合の技術的壁があった。",
+    "first48Hours": "5つの小規模e-ticerciと深度访谈。彼らの現在の配送コスト、パートナーを調査。Ankara地区の配送ルート、ボリュームを分析。"
+  },
+  {
+    "id": 6,
+    "name": "Uygun Sigorta Karşılaştırma",
+    "description": "Trafik sigortası、kasko等のAI活用比較・購入プラットフォーム。複数業者から即時引用，オンライン購入完了。手数料は業者から。",
+    "industry": "InsurTech",
+    "budget": "Orta (200K-500K TL)",
+    "skillLevel": "Orta",
+    "turkeyContext": "Türkiye'de年間20M+ araç保険購入，ユーザーは価格に敏感。既存比較サイトは複雑で、購入完了まで時間がかかる。シンプルなUXが勝機。",
+    "first48Hours": "既存3つの比較サイトを利用し、フローの摩擦点を記録。10人の運転者にインタビュー。保険会社とのAPI統合可能性を調査。"
+  },
+  {
+    "id": 7,
+    "name": "SaaS: TCMB Veri Analitiği",
+    "description": "Finansal analiz者、トレーダー向けのTCMB（中央銀行）データダッシュボード。リアルタイム為替、金利、 reserve等データ。API接続可能。",
+    "industry": "FinTech",
+    "budget": "Düşük (50K-120K TL)",
+    "skillLevel": "Orta",
+    "turkeyContext": "Türkiye'nin経済データは散在しており、専門家は複数サイトから収集している。TCMBのAPIは公開されているが、使いやすいダッシュボードがない。ターゲット層の支払い能力は高い。",
+    "first48Hours": "10の金融アナリスト、トレーダーにインタビュー。既存ツール、データソースを調査。TCMB APIに接続し、最小限のプロトタイプを構築。"
+  },
+  {
+    "id": 8,
+    "name": "Esnek Ebeveyn İş Platformu",
+    "description": "小さい子供を持つ親（主に母親）向けのフレキシブルな遠隔・パートタイム求人掲示板。時短、在宅、プロジェクト単位の仕事。マッチング機能付き。",
+    "industry": "HR Tech",
+    "budget": "Düşük (30K-100K TL)",
+    "skillLevel": "Başlangıç",
+    "turkeyContext": "Türkiye'de 8M+働く女性、その多くは育児との両立に課題を感じている。既存求人サイトはフルタイム正社員中心。柔軟な仕事を探す需要は強いが、供給は足りていない。",
+    "first48Hours": "20人の小さい子供を持つ親に（既婚・未婚問わず）インタビュー。彼らの現在の仕事探しプロセス、障壁を把握。LinkedIn等との差別化点を定義。"
+  },
+  {
+    "id": 9,
+    "name": "B2B: Yazılım Test Hizmeti",
+    "description": "中小・スタートアップ向けのQAテストアウトソーシング。機能、UI/UX、パフォーマンス、セキュリティテスト。プロジェクト単位。",
+    "industry": "Tech Services",
+    "budget": "Düşük (20K-80K TL)",
+    "skillLevel": "Orta",
+    "turkeyContext": "Ankara、İstanbulでは500+スタートアップ、多くがQA予算不足。品質問題によるユーザー離脱は痛い。外注先はあるが、価格が高いか品質不安定。「手頃な信頼QA」需要が大きい。",
+    "first48Hours": "15のスタートアップCTO/PMにインタビュー。既存QAプロセス、痛みを聞く。価格感受性、予算規模を把握。初期サービスメニューを設計。"
+  },
+  {
+    "id": 10,
+    "name": "Yerel Tur Rehberi Marketplace",
+    "description": "Turist向けの「地元民ガイド」マッチング。İstanbul, Cappadocia, Antalya等で個人ガイド、体験ツアー。コミッション20%。",
+    "industry": "Travel",
+    "budget": "Düşük (40K-150K TL)",
+    "skillLevel": "Başlangıç",
+    "turkeyContext": "Türkiyeは年間50M+観光客、うち30%が「現地民と交流したい」と回答。既存ツアーは大団体向け。個人旅行者の需要はあるが、信頼できるガイドを見つけるのが難しい。",
+    "first48Hours": "Cappadocia、Antalyaの10人の現地ガイドに連絡。彼らの現在の客層、価格、課題を調査。観光客5人に深度访谈。"
+  },
+  {
+    "id": 11,
+    "name": "SaaS: Müşteri Memnuniyet Takip",
+    "description": "中小企業向けのCSAT/NPS調査ツール。WhatsApp、SMS、emailで自動調査。ダッシュボード付き。299TL/ay。",
+    "industry": "SaaS",
+    "budget": "Düşük (40K-100K TL)",
+    "skillLevel": "Başlangıç",
+    "turkeyContext": "Türkiye'de 1M+ 中小企業、顧客満足度を把握したいがツールがない。大企業向けツールは複雑で高価。シンプルで手頃なSaaSが不足している。",
+    "first48Hours": "20の中小企業経営者にインタビュー。現在の顧客フィードバック収集方法を聞く。MVP機能リストを作成。"
+  },
+  {
+    "id": 12,
+    "name": "Özel Ders Platformu (Yetişkin)",
+    "description": "大人向け「スキル」特化の個人授業マッチング。言語、音楽、プログラミング、デザイン等。プロジェクト単位。コミッション15%。",
+    "industry": "EdTech",
+    "budget": "Düşük (30K-90K TL)",
+    "skillLevel": "Başlangıç",
+    "turkeyContext": "Türkiye'de大人の学習需要は高まっているが、既存プラットフォームは学生向け。スキル特化、柔軟なスケジュール、成人同士のマッチングというニッチ。",
+    "first48Hours": "5つの異なるスキル領域（英語、ギター、コード、写真、料理）の講師各5人にインタビュー。需要と価格帯を確認。"
+  },
+  {
+    "id": 13,
+    "name": "SaaS: E-fatura Otomasyonu",
+    "description": "小規模事業者向けのGIB integrationで、e-fatura発行・追跡を自動化。月100枚まで299TL。最小限のセットアップ。",
+    "industry": "SaaS",
+    "budget": "Orta (100K-300K TL)",
+    "skillLevel": "Orta",
+    "turkeyContext": "Türkiyeでe-fatura義務化は進んでいるが、小規模事業者は複雑な手続きに負担を感じている。会計事務所に外注するとコスト高。自己管理向けシンプルツールが需要。",
+    "first48Hours": "GIB e-fatura APIを調査。10の小規模事業者（10-50人）に現在の請求プロセスをインタビュー。既存ソリューションとの差別化を確認。"
+  },
+  {
+    "id": 14,
+    "name": "Sürdürülebilir Marketplace",
+    "description": "エコ・フェア、ヴィーガン、持続可能ブランドのマーケットプレイス。 İstanbul在庫、即日配送。教育コンテンツ付き。",
+    "industry": "E-commerce",
+    "budget": "Orta (150K-400K TL)",
+    "skillLevel": "Orta",
+    "turkeyContext": "TürkiyeのZ世代、ミレニアル世代の30%は「サステナブル製品」を優先。大手工場製品に対してローカル・エコブランドの支持が高まっている。需要はあるが発見が難しい。",
+    "first48Hours": "20のサステナブルブランド（食品、化粧品、衣料等）に連絡。彼らの現在の販売チャネル、課題を聞く。ターゲット顧客5人に深度访谈。"
+  },
+  {
+    "id": 15,
+    "name": "B2B: Sosyal Medya İçerik Stüdyosu",
+    "description": "中小企業向けの「月次コンテンツパック」制作。Instagram reels、TikTok動画、storyテンプレート。月599TLから。",
+    "industry": "Creative Services",
+    "budget": "Düşük (50K-150K TL)",
+    "skillLevel": "Orta",
+    "turkeyContext": "Türkiyeの企業は「コンテンツが必要」とわかっているが、内部リソース不足。制作会社は高価（月5000TL+）。小規模企業向けのサブスク型コンテンツ制作が不足。",
+    "first48Hours": "10の小規模企業に現在のSMM状況をインタビュー。彼らの月次コンテンツ需要量、ボリュームを把握。クリエイターチームを編成。"
+  },
+  {
+    "id": 16,
+    "name": "Kiralık Ekipman Platformu",
+    "description": "建機、AV機器、パーティ用品等の「地域レンタル」マーケットプレイス。オーナーと借り手を直接マッチング。手数料10%。",
+    "industry": "Marketplace",
+    "budget": "Orta (120K-350K TL)",
+    "skillLevel": "Başlangıç",
+    "turkeyContext": "Türkiyeではレンタル市場は拡大中だが、フラグメンテーションが激しい。需要はあるが、発見は難しい。地域ごとのマッチング、透明な価格が勝機。",
+    "first48Hours": "3つの異なるレンタルカテゴリー（建機、AV、パーティ）で各5店舗に訪問。在庫、価格、現在の集客方法を調査。需要側10人に深度访谈。"
+  },
+  {
+    "id": 17,
+    "name": "SaaS: Personel Takip Sistemi",
+    "description": "小規模企業向けの出勤・給与管理ツール。勤怠、休暇、承認フロー。モバイルファースト。月199TL。",
+    "industry": "SaaS",
+    "budget": "Düşük (40K-120K TL)",
+    "skillLevel": "Orta",
+    "turkeyContext": "Türkiyeの小規模企業（10-50人）は多くがExcelや紙で管理している。既存HRツールは大企業向けで複雑。シンプルでモバイルなソリューションが不足。",
+    "first48Hours": "15の小規模企業経営者に現在の勤怠管理方法をインタビュー。MVP機能（出勤、休暇、承認）を定義。"
+  },
+  {
+    "id": 18,
+    "name": "SaaS: WhatsApp CRM",
+    "description": "中小企業向けのWhatsAppベースCRM。連絡先管理、メッセージ追跡、テンプレート送信。月299TL。",
+    "industry": "SaaS",
+    "budget": "Düşük (50K-130K TL)",
+    "skillLevel": "Orta",
+    "turkeyContext": "Türkiyeではビジネス通信の80%がWhatsApp上。CRMはあるが、WhatsAppとの統合が不十分。セールス、サポート担当者がWhatsAppを効率的に使えるツールが需要。",
+    "first48Hours": "10のセールス/サポート担当者にインタビュー。現在のWhatsAppワークフロー、CRM統合状況を把握。WhatsApp Business APIの調査。"
+  },
+  {
+    "id": 19,
+    "name": "Kırsal Turizm Rehberi",
+    "description": "「隠れた田舎」の宿泊、体験、ガイド特化プラットフォーム。黒海、エーゲ海、地中海の山村。コミッション15%。",
+    "industry": "Travel",
+    "budget": "Düşük (40K-100K TL)",
+    "skillLevel": "Başlangıç",
+    "turkeyContext": "Turistの40%が「人気観光地以外」も訪れたいが、情報がない。地方の宿、体験は存在するが発見が難しい。需要はあるが、信頼できる情報源が不足。",
+    "first48Hours": "黒海地域（Trabzon, Rize等）の10の小規模宿泊施設、ガイドに連絡。彼らの現在の集客方法、課題を調査。観光客5人に深度访谈。"
+  },
+  {
+    "id": 20,
+    "name": "SaaS: E-ticaret Kargo Entegrasyonu",
+    "description": "中小e-ticerci向けの複数運送会社統合ダッシュボード。追跡、ラベル発行、コスト比較。月499TL。",
+    "industry": "SaaS",
+    "budget": "Düşük (60K-180K TL)",
+    "skillLevel": "Orta",
+    "turkeyContext": "E-ticerciは通常2-3社の運送会社を使い分けているが、ダッシュボードが別々で管理が大変。統合ツールはあるが、小規模向けは価格が高い。シンプルで手頃な統合が需要。",
+    "first48Hours": "10の小規模e-ticerci（日10-50件出荷）にインタビュー。現在の運送会社、追跡方法、コストを把握。運送会社APIの調査。"
+  }
+]
